@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/grace-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/grace-portfolio/static/js/main.2b627e98.js",
+    "main.js": "/grace-portfolio/static/js/main.2c582cee.js",
     "static/js/787.40e548f7.chunk.js": "/grace-portfolio/static/js/787.40e548f7.chunk.js",
-    "static/media/logo.svg": "/grace-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/grace.jpg": "/grace-portfolio/static/media/grace.53e11325e55fef044ab3.jpg",
     "index.html": "/grace-portfolio/index.html",
     "main.073c9b0a.css.map": "/grace-portfolio/static/css/main.073c9b0a.css.map",
-    "main.2b627e98.js.map": "/grace-portfolio/static/js/main.2b627e98.js.map",
+    "main.2c582cee.js.map": "/grace-portfolio/static/js/main.2c582cee.js.map",
     "787.40e548f7.chunk.js.map": "/grace-portfolio/static/js/787.40e548f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2b627e98.js"
+    "static/js/main.2c582cee.js"
   ]
 }
