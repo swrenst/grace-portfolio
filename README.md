@@ -1,3 +1,12 @@
+# TO START LOCALLY
+from grace-portfolio run:
+npm start
+
+# TO DEPLOY
+from grace-portfolio run:
+npm run deploy
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
